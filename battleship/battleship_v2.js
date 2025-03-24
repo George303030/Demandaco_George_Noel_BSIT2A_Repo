@@ -1,7 +1,7 @@
 //declaimer variables
 var randomLoc = Math.floor(math.random() * 5);
 
-var location = ;
+var location;
 var location = + 1;
 var location = + 2;
 
